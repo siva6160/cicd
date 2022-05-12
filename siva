@@ -1,0 +1,11 @@
+package siva;
+
+public class helloworld {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("Ci/CD PIPELINE USING KUBERNETS");
+		System.out.println("TEAM MEMEBRES "+"\n"+"Y.S.Satyanarayana"+"\n"+"G.Navya"+"\n"+"K.murali"+"\n"+"K.Siva Pravathi");
+	}
+
+}
